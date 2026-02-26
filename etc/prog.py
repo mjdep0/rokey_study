@@ -6,4 +6,3 @@ def solution(A,B):
         answer += A[i] * B[i]
 
     return answer
-print(solution([1,4,2], [5,4,4]))
