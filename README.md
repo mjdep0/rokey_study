@@ -1,5 +1,5 @@
-# rokey_study
-4반-5조
+# rokey_study 1주차
+ROKEY 4반-5조 스터디
 
 ### 1차 스터디: Git & GitHub
 - 스터디 목표
