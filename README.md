@@ -7,6 +7,10 @@ ROKEY 4반-5조 스터디
   - Git 기본 명령어 실습 (로컬 저장소 기준)
   - GitHub를 활용한 원격 저장소 연동 및 협업 흐름 이해
 
+
+4반 08173 00년생 윤상철
+=======
 ### desc_jiwoo
 
 - README description added by Jiwoo
+
