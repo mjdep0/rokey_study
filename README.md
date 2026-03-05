@@ -12,3 +12,18 @@ ROKEY 4반-5조 스터디
   - Github로 협업하기 실습 진행
   - 프로젝트 fork, clone, 수정 및 업로드 실행
   - 다른 팀원들과 진행도 비교
+
+README수정테스트_박호성
+---
+
+### 2차 스터디
+- Github 협업 실습
+
+4반 08173 00년생 윤상철
+
+### desc_jiwoo
+
+- README description added by Jiwoo
+
+### seoyoungchae
+
