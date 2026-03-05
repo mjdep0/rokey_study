@@ -9,3 +9,15 @@ ROKEY 4반-5조 스터디
 
 ### 2차 스터디
 - Github 협업 실습
+
+=======
+
+
+4반 08173 00년생 윤상철
+=======
+### desc_jiwoo
+
+- README description added by Jiwoo
+
+=======
+### seoyoungchae
