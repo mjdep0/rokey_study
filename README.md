@@ -7,6 +7,8 @@ ROKEY 4반-5조 스터디
   - Git 기본 명령어 실습 (로컬 저장소 기준)
   - GitHub를 활용한 원격 저장소 연동 및 협업 흐름 이해
 
+
+README수정테스트_박호성
 ---
 
 ### 2차 스터디
@@ -19,3 +21,4 @@ ROKEY 4반-5조 스터디
 - README description added by Jiwoo
 
 ### seoyoungchae
+
